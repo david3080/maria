@@ -13,7 +13,7 @@
         "dangerColor": "#ffb5b5",
         "mainFont": "Jost",
         "display1Font": "Lexend",
-        "display1Size": "4.6",
+        "display1Size": "4",
         "display2Font": "Lexend",
         "display2Size": 3,
         "display5Font": "Lexend",
@@ -854,7 +854,7 @@
               "color": "#8e8d8a"
             },
             "H3": {
-              "color": "#e85a4f"
+              "color": "#ff6666"
             }
           },
           "_name": "gallery5",
@@ -899,7 +899,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#e43f3f"
+              "color": "#ff6666"
             },
             ".mbr-text": {
               "color": "#8e8d8a"
@@ -1089,7 +1089,7 @@
               }
             },
             "H3": {
-              "color": "#e85a4f"
+              "color": "#ff6666"
             }
           },
           "_name": "testimonials3",
@@ -1140,7 +1140,7 @@
               "margin-bottom": "0"
             },
             "H3": {
-              "color": "#e85a4f"
+              "color": "#ff6666"
             }
           },
           "_name": "content16",
@@ -1193,7 +1193,7 @@
               "align-items": "center"
             },
             "H1": {
-              "color": "#e43f3f"
+              "color": "#ff6666"
             }
           },
           "_name": "form4",
@@ -1241,7 +1241,7 @@
               "color": "@primaryColor"
             },
             ".mbr-section-title": {
-              "color": "#e43f3f"
+              "color": "#ff6666"
             }
           },
           "_name": "contacts2",
