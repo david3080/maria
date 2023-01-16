@@ -1032,7 +1032,7 @@ a {
 .cid-sFF0SGinka {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffe3e3;
+  background-image: url("../../../assets/images/-2023-01-16-9.18.00-1532x926.png");
 }
 .cid-sFF0SGinka .row {
   align-items: center;
@@ -1098,7 +1098,7 @@ a {
 .cid-sFF3kfZheU {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #ffe3e3;
+  background-image: url("../../../assets/images/-2023-01-16-9.18.00-1532x926.png");
 }
 .cid-sFF3kfZheU .item {
   padding-bottom: 2rem;
@@ -1347,7 +1347,7 @@ a {
   text-align: center;
 }
 .cid-sFF3kfZheU H4 {
-  color: #8e8d8a;
+  color: #000000;
 }
 .cid-sFF3kfZheU H3 {
   color: #ff6666;
@@ -1460,7 +1460,7 @@ a {
 .cid-sFF3oey64R {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffe3e3;
+  background-image: url("../../../assets/images/-2023-01-16-9.18.00-1532x926.png");
 }
 .cid-sFF3oey64R .carousel-item {
   justify-content: center;
@@ -1597,7 +1597,7 @@ a {
   margin-bottom: 2rem;
   display: flex;
   border-radius: 4px;
-  background: #eae7dc;
+  background: #ffe3e3;
 }
 @media (max-width: 991px) {
   .cid-sFF3B84VW8 .card-wrapper {
@@ -1620,6 +1620,6 @@ a {
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #ff8a8a;
   overflow: hidden;
 }
