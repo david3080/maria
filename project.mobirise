@@ -566,10 +566,13 @@
               }
             },
             ".card-title, .card-box": {
-              "color": "#000000"
+              "color": "#e43f3f"
             },
             ".icon-text": {
               "color": "#8e8d8a"
+            },
+            ".icon-title": {
+              "color": "#e43f3f"
             }
           },
           "_name": "features13",
@@ -966,6 +969,12 @@
               ".plan": {
                 "margin-bottom": "2rem"
               }
+            },
+            ".plan-title": {
+              "color": "#e43f3f"
+            },
+            ".price-term": {
+              "color": "#e43f3f"
             }
           },
           "_name": "pricing2",
@@ -1012,6 +1021,9 @@
               "@media (max-width: 767px)": {
                 "padding": "1rem"
               }
+            },
+            ".card-title": {
+              "color": "#e43f3f"
             }
           },
           "_name": "clients2",

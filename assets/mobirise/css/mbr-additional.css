@@ -1090,10 +1090,13 @@ a {
 }
 .cid-sFF3eJNZDT .card-title,
 .cid-sFF3eJNZDT .card-box {
-  color: #000000;
+  color: #e43f3f;
 }
 .cid-sFF3eJNZDT .icon-text {
   color: #8e8d8a;
+}
+.cid-sFF3eJNZDT .icon-title {
+  color: #e43f3f;
 }
 .cid-sFF3kfZheU {
   padding-top: 8rem;
@@ -1422,6 +1425,12 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-sFF7wKlLkT .plan-title {
+  color: #e43f3f;
+}
+.cid-sFF7wKlLkT .price-term {
+  color: #e43f3f;
+}
 .cid-sFF3mUy3tz {
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -1456,6 +1465,9 @@ a {
   .cid-sFF3mUy3tz .card-wrapper {
     padding: 1rem;
   }
+}
+.cid-sFF3mUy3tz .card-title {
+  color: #e43f3f;
 }
 .cid-sFF3oey64R {
   padding-top: 6rem;
